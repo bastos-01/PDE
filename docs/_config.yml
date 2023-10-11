@@ -23,7 +23,7 @@ email: pedro.bas@ua.pt
 description: >- # this means to ignore newlines until "baseurl:"
   Github pages com o portfólio, relatório e progressos em cada semana.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bastos-01.github.io/PDE" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 #theme: minima
