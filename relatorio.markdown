@@ -38,3 +38,13 @@ Esta página documenta o progresso de cada semana de trabalho.
 - Continuação da leitura do livro anteriormente mencionado;
 - Comparação dos diferentes tipos de abordagens na construção dos modelos de extração e segmentação de texto;
 - Continuação da escrita do estado-da-arte.
+
+### 20 - 26 de Novembro
+- Continuação da leitura do livro anteriormente mencionado;
+- Continuação da escrita do estado-da-arte;
+- Construção teórica de uma possível solução para o sistema pretendido.
+
+### 27 - 3 de Dezembro
+- Continuação da leitura do livro anteriormente mencionado;
+- Continuação da escrita do estado-da-arte;
+- Apresentação das diferentes abordagens na conferência do projeto iForal.
