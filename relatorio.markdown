@@ -48,3 +48,29 @@ Esta página documenta o progresso de cada semana de trabalho.
 - Continuação da leitura do livro anteriormente mencionado;
 - Continuação da escrita do estado-da-arte;
 - Apresentação das diferentes abordagens na conferência do projeto iForal.
+
+### 4 - 10 de Dezembro
+- Continuação da leitura do livro anteriormente mencionado;
+- Continuação da escrita do estado-da-arte;
+- Comparação das diferentes abordagens encontradas;
+
+### 11 - 17 de Dezembro
+- Continuação da leitura do livro anteriormente mencionado;
+- Continuação da escrita do estado-da-arte;
+
+### 18 - 22 de Dezembro
+- Continuação da leitura do livro anteriormente mencionado;
+- Continuação da escrita do estado-da-arte;
+- Criação de uma proposta de arquitetura para o problema;
+
+### 2 - 7 de Janeiro
+- Continuação da leitura do livro anteriormente mencionado;
+- Continuação da escrita do estado-da-arte;
+- Preparação e escrita das metodologias;
+
+### 8 - 14 de Janeiro
+- Re-estruturação do documento do estado-da-arte;
+
+### 15 - 21 de Janeiro
+- Acabamentos finais do documento do estado-da-arte;
+- Preparação da apresentação de PDE;

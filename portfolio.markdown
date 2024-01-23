@@ -9,7 +9,7 @@ nav_order: 3
 
 # Portfolio
 
-Esta página documenta as atividades realizadas extracurriculares.
+Esta página documenta as atividades extracurriculares realizadas.
 
 
 
